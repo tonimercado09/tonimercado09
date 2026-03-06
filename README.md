@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Toni</h1>
+<h3 align="center">Full Stack Developer | Web Developer | UI/UX Explorer</h3>
 
-<!--
-**tonimercado09/tonimercado09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Angular+%7C+Vue+%7C+.NET;UI%2FUX+Enthusiast;Always+Building+Something+Cool" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 About Me
+
+- 💻 Full Stack & Web Developer  
+- 🎨 Exploring **UI/UX Design & Modern Interfaces**  
+- 🧪 Building **mock projects** to experiment with new tech  
+- 🚀 Passionate about **clean code and scalable applications**  
+- 🌱 Continuously learning new tools and frameworks  
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,vue,nuxt,ts,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,wordpress" />
+</p>
+
+CMS: **Contentful**
+
+---
+
+# 🎨 UI / UX Exploration
+
+I’m currently expanding my skills in:
+
+- UI/UX Design
+- Responsive Web Design
+- Design Systems
+- Frontend Architecture
+- Modern Web Interfaces
+  
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/tonimercado09
+- LinkedIn: https://www.linkedin.com/in/antoinette-mercado09
