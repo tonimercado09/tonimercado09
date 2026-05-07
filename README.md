@@ -59,15 +59,7 @@ I’m currently expanding my skills in:
   
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
-- GitHub: https://github.com/tonimercado09
+- Portfolio: https://tonimercado.vercel.app
 - LinkedIn: https://www.linkedin.com/in/antoinette-mercado09
